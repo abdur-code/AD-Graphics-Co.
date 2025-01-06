@@ -2,19 +2,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const galleryData = {
         interior: {
             title: 'Interior Works Gallery',
-            images: ['./Website-20250103T222148Z-001/Website/Interior/interior1.jpg', './Website-20250103T222148Z-001/Website/Interior/interior2.jpg', './Website-20250103T222148Z-001/Website/Interior/interior3.jpg', './Website-20250103T222148Z-001/Website/Interior/interior4.jpg', './Website-20250103T222148Z-001/Website/Interior/interior5.jpg']
+            images: ['./Website/Interior/interior1.jpg', './Website/Interior/interior2.jpg', './Website/Interior/interior3.jpg', './Website/Interior/interior4.jpg', './Website/Interior/interior5.jpg']
         },
         exterior: {
             title: 'Exterior Works Gallery',
-            images: ['./Website-20250103T222148Z-001/Website/Exterior/exterior1.jpg', './Website-20250103T222148Z-001/Website/Exterior/exterior2.jpg', './Website-20250103T222148Z-001/Website/Exterior/exterior3.jpg']
+            images: ['./Website/Exterior/exterior1.jpg', './Website/Exterior/exterior2.jpg', './Website/Exterior/exterior3.jpg']
         },
         printing: {
             title: 'Printing Services Gallery',
-            images: ['./Website-20250103T222148Z-001/Website/Printing/printing1.jpg', './Website-20250103T222148Z-001/Website/Printing/printing2.jpg']
+            images: ['./Website/Printing/printing1.jpg', './Website/Printing/printing2.jpg']
         },
         signage: {
             title: 'Signage Solutions Gallery',
-            images: ['./Website-20250103T222148Z-001/Website/Signage/signage1.jpg', './Website-20250103T222148Z-001/Website/Signage/signage2.jpg', './Website-20250103T222148Z-001/Website/Signage/signage3.jpg', './Website-20250103T222148Z-001/Website/Signage/signage4.jpg']
+            images: ['./Website/Signage/signage1.jpg', './Website/Signage/signage2.jpg', './Website/Signage/signage3.jpg', './Website/Signage/signage4.jpg']
         }
     };
 
