@@ -1,0 +1,105 @@
+* {
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+}
+
+body {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+/* Navbar */
+#navbar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.bi-building-fill {
+    font-size: 30px;
+    color: #333333;
+}
+
+.fs-4 {
+    padding-left: 15px;
+    color: #333333;
+}
+
+.nav-link {
+    color: #333333;
+}
+
+.nav-link.active {
+    background-color: #333333 !important;
+    color: #ffffff !important;
+}
+
+/* Home section */
+.description-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+.text-primary {
+    color: #333333 !important;
+}
+
+.btn-primary {
+    background-color: #333333;
+    border-color: #333333;
+}
+
+.btn-primary:hover {
+    background-color: #4a4a4a;
+    border-color: #4a4a4a;
+}
+
+/* What We Do section */
+.service-card {
+    background-color: #f5f5f5;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+#howWeWorkContainer {
+    background-color: #f5f5f5 !important;
+}
+
+.step-number {
+    background-color: #333333 !important;
+}
+
+/* Gallery Modal */
+.gallery-nav {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+.image-counter {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+/* Footer */
+.text-body-secondary {
+    color: #666666 !important;
+}
+
+footer {
+    background-color: #ffffff;
+    border-top: 1px solid #e0e0e0;
+}
+
+footer .bi {
+    color: #333333;
+}
+
+footer .bi:hover {
+    color: #4a4a4a;
+}
